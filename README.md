@@ -13,4 +13,4 @@ We help service-based businesses (dental, rental, travel) eliminate manual admin
 * **AI Receptionist:** 24/7 customer support and booking routing.
 * **CRM Sync:** Seamless data flow between platforms.
 
-📫 **Reach out:** [Insert LinkedIn Profile Link] | digitechsdreams@gmail.com
+📫 **Reach out:** digitechsdreams@gmail.com
